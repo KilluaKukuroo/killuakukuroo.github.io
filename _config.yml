@@ -1,16 +1,16 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
-subtitle: Financial Economist
-email: paul.soto@upf.edu
+title: Zhiqing Hong
+name: Zhiqing Hong
+subtitle: Master student in computer science
+email: hongzq@zju.edu.cn
 description: >
-  Financial Economist
+  Master student in computer science
 baseurl: ""
-url: "https://pesoto.github.io/"
+url: "https://killuakukuroo.github.io/"
 github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+disqus_baseurl: "https://killuakukuroo.github.io/"
+disqus_shortname: https-killuakukuroo-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
@@ -25,7 +25,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Zhiqing Hong"
 
 
 
@@ -40,8 +40,8 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
-    url: https://github.com/pesoto
+    username: killuakukuroo
+    url: https://github.com/killuakukuroo
     desc: Fork me on GitHub
     share: false
 
